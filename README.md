@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Silvio 👋
 
 <a href="https://github.com/DevSilvio/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevSilvio&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSilvio&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/DevSilvio/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSilvio&layout=compact&langs_count=8&card_width=320&theme=transparent" />
