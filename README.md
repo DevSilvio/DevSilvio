@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Silvio 👋
 
-###### Sobre Eu
+###### Sobre mim
 Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unicesumar, aluno do curso EBAC me preparando para ser um desenvolvedor fullstack
 
 
