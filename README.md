@@ -5,10 +5,10 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 
 <a href="https://github.com/DevSilvio/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSilvio&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSilvio&show_icons=true" />
 </a>
 <a href="https://github.com/DevSilvio/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSilvio&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSilvio&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=Site_Game-Shop&theme=transparent)](https://github.com/DevSilvio/Site_Game-Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=Site_Game-Shop)](https://github.com/DevSilvio/Site_Game-Shop)
 
 ### Contato
 
