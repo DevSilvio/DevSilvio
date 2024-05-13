@@ -21,7 +21,7 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=Site_Game-Shop)](https://github.com/DevSilvio/Site_Game-Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=Site_Game-Shop&theme=transparent)](https://github.com/DevSilvio/Site_Game-Shop)
 
 ### Contato
 
