@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Silvio 👋
 
+###### Sobre Eu
+Cursando análise e desenvolvimento de sistemas há 1 ano, aluno do curso EBAC me preparando para ser um desenvolvedor fullstack
+
+
 <a href="https://github.com/DevSilvio/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSilvio&show_icons=true&theme=transparent" />
 </a>
@@ -18,3 +22,9 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=Site_Game-Shop)](https://github.com/DevSilvio/Site_Game-Shop)
+
+### Contato
+
+<a href="https://www.linkedin.com/in/silvio-martins-48434b2a7/">
+  <img alt="logo linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
