@@ -8,7 +8,7 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DevSilvio&show_icons=true" />
 </a>
 <a href="https://github.com/DevSilvio/convoychat">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSilvio&layout=compact&langs_count=8&card_width=320" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSilvio&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
