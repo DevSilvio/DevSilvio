@@ -23,7 +23,7 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=projeto_calculadora_medias)](https://github.com/DevSilvio/projeto_calculadora_medias)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSilvio&repo=projeto_calculadora_medias)](https://github.com/DevSilvio/ebac-projeto-02)
 
 ### Contato
 
