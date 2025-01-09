@@ -20,10 +20,6 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 <br>
 
-### Projeto recente
-
-[![Gist Card](https://ebac-projeto-02-atividade.vercel.app/)](https://github.com/DevSilvio/ebac-projeto-02-atividade)
-
 ### Contato
 
 <a href="https://www.linkedin.com/in/silvio-martins-48434b2a7/">
