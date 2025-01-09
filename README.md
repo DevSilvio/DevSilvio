@@ -23,7 +23,7 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Devsilvio=anuraghazra&repo=github-readme-stats)](https://github.com/DevSilvio/ebac-modulo-jquery-atividade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Devsilvio=Atividade%do%modulo%jQuery)](https://github.com/DevSilvio/ebac-modulo-jquery-atividade)
 
 ### Contato
 
