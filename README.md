@@ -22,7 +22,7 @@ Cursando análise e desenvolvimento de sistemas há 1 ano na universidade unices
 
 ### Projeto recente
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/DevSilvio/ebac-projeto-02-atividade)
+[![Gist Card](https://ebac-projeto-02-atividade.vercel.app/)](https://github.com/DevSilvio/ebac-projeto-02-atividade)
 
 ### Contato
 
